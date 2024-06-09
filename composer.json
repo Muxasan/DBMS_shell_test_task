@@ -1,0 +1,15 @@
+{
+    "autoload" : {
+        "psr-4": {
+            "QueryBuilder\\" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Moskvin"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
